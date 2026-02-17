@@ -1,4 +1,4 @@
-# 🚀 Desafio POO - Digital Innovation One
+# Desafio: Aprenda na Prática Programação Orientada a Objetos
 
 Projeto desenvolvido para aplicar os 4 pilares da Programação Orientada a Objetos:
 
@@ -32,3 +32,4 @@ Sistema de Bootcamp onde:
 ## 👨‍💻 Autor
 
 Vagner Rafael Marques de Deus
+
